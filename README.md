@@ -1,4 +1,4 @@
-insted of bausite i made a source for an Exploit.
+Source For a executer for the folks who dont know how to make.
 
 -- Free to use but DO NOT remove the --Made by null in textbox.
 
